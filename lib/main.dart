@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
             children: [
               Text("Atividade"),
               Text("Avaliativa"),
-              Text("Nome"),
+              Text("Giovana Moreira"),
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
