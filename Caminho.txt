@@ -1,0 +1,19 @@
+Passo 1:
+$ git init
+Initialized empty Git repository in C:/Users/lenovo/Desktop/aula/.git/
+
+Passo 2:
+$ git checkout -b atividade-20240923
+Switched to a new branch 'atividade-20240923'
+
+Passo 3:
+$ git config --global user.name "Giovana-Moreira"
+
+Passo 4:
+$ git config --global user.email "giovana14moreira@gmail.com"
+
+Passo 5:
+$ git add .
+
+Passo 6:
+$ git commit -am "revisão para atividade"
