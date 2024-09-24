@@ -17,3 +17,12 @@ $ git add .
 
 Passo 6:
 $ git commit -am "revisão para atividade"
+
+Passo 7:
+Ir na pasta do git onde quer salvar o código, ir em CODE (botão verde) e copiar o link
+
+Passo 8:
+$ git remote add origin https://github.com/Giovana-Moreira/PAM.git
+
+Passo 9:
+$ git push origin atividade-20240923
